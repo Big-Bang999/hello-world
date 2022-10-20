@@ -1,4 +1,4 @@
-# Top Alternatives to Hero
+# Top Alternatives to Heroku
 
 # Introduction
 In the cloud services world, Heroku is one of the pioneers of Platform as a Service (PaaS). The process of building and configuring a server from scratch was challenging for developers before they arrived on the scene. In addition to shared hosting limitations, cloud technology and its deployment strategies are complicated.
