@@ -89,9 +89,22 @@ It can also autoscale, create new instances on the go, and automatically handle 
 
 Another helpful feature is the ease of integrating various Google apps through Google’s Cloud Datastore, which securely integrates with the App Engine.
 
-# Conclusion
-In all of these, my favourite alternative is ............. Sorry, I don't have one because I'm stuck between choosing render.com or fly.io. They are so good and have an edge over other PaaS that is out there. If you need tutorials on how to use these platforms, let me know in the comments.
 
+# Cubit Host
+
+![cubit.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1668955101635/A2ihg2Pmj.png align="center")
+[Cubit Host](https://cubithost.com/) is a hosting company that specializes in delivering quality service at an affordable price. Created for growing developers and industry professionals and everyone else in between, it seeks to bridge the gap between developers and hosting companies by changing the way websites are designed and developed. It is an enabling platform for SMEs, LMS and E-Commerce sites.
+It has subscription plans created to suit different budgets and allows developers to explore their creativity as they build and test their digital products.
+Some of its benefits are:
+- LiteSpeed Webserver
+- Improved SEO rating
+- Enhanced DDoS Security
+- Provision of backup repository for websites
+- Free SSL Certificate
+- Technical Support
+
+# Conclusion
+Of all of these, the one that stands out for me is Cubit host. It is an upcoming PaaS that really stands out amongst others. I recommend Cubit Host because it is affordable, easy to use and provides support for any of your technical needs.
 
 
 
