@@ -10,7 +10,7 @@ tags: python, beginners, 100daysofcode
 
 ---
 
-The Python programming language is known for its simplicity and ease of use. It was designed to be easy to read and write, with syntax emphasizing readability.largemanyYou can do many things with it, including scripting, data analysis, web development, and artificial intelligence. Because of its simplicity and versatility, Python is popular with beginners and experienced programmers alike.
+The Python programming language is known for its simplicity and ease of use. It was designed to be easy to read and write, with syntax emphasizing readability. You can do many things with it, including scripting, data analysis, web development, and artificial intelligence. Because of its simplicity and versatility, Python is popular with beginners and experienced programmers alike.
 
 Some of the critical concepts to cover in Python programming include:
 
